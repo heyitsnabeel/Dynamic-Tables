@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//heyitsnabeel.github.io/cart-react/static/css/main.08bacac8.css",
+    "main.js": "/https//heyitsnabeel.github.io/cart-react/static/js/main.6cda6e07.js",
+    "index.html": "/https//heyitsnabeel.github.io/cart-react/index.html",
+    "main.08bacac8.css.map": "/https//heyitsnabeel.github.io/cart-react/static/css/main.08bacac8.css.map",
+    "main.6cda6e07.js.map": "/https//heyitsnabeel.github.io/cart-react/static/js/main.6cda6e07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08bacac8.css",
+    "static/js/main.6cda6e07.js"
+  ]
+}
