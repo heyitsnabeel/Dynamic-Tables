@@ -1,0 +1,29 @@
+.table-head {
+    background-color: green;
+    color: #333;
+    font-weight: bold;
+  } 
+.icon1{
+    float: right;
+}
+.icon2{
+    color: rgb(98, 220, 98);
+    padding-right: 2px;
+    margin-left: 10px;
+}
+.icon3{
+    color: aqua;
+    padding-right: 2px;
+}
+.icon4{
+    color: gray;
+    padding-right: 2px;
+}
+.icon5{
+    color: rgb(249, 252, 52);
+    padding-right: 2px;
+}
+.icon6{
+    color: rgb(74, 74, 206);
+    padding-right: 2px;
+}

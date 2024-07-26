@@ -1,0 +1,54 @@
+[
+    {
+      
+      "Task": "Appointment",
+      "assigned":"Daksh",
+      "impact":"Medium",
+      "duration":"-",
+      "assigne":"daksh",
+      "startDate":"-",
+      "deadline":"-"
+    },
+    {
+      
+        "Task": "Enterpreneur",
+        "assigned":"Daksh",
+        "impact":"Medium",
+        "duration":"-",
+        "assigne":"Sujal",
+        "startDate":"-",
+        "deadline":"-"
+      },
+      { 
+      
+        "Task": "Application",
+        "assigned":"Daksh",
+        "impact":"-",
+        "duration":"-",
+        "assigne":"Sujal",
+        "startDate":"-",
+        "deadline":"-"
+      },
+      {
+      
+        "Task": "Stip Accelerator",
+        "assigned":"-",
+        "impact":"-",
+        "duration":"-",
+        "assigne":"Prinyanka",
+        "startDate":"-",
+        "deadline":"-"
+      },
+      {
+      
+        "Task": "Framework",
+        "assigned":"-",
+        "impact":"-",
+        "duration":"-",
+        "assigne":"Prinyanka",
+        "startDate":"-",
+        "deadline":"-"
+      }  
+      
+    
+  ]

@@ -1,0 +1,427 @@
+[
+  {
+    "id":0,
+    "Department": "Opeartions Management",
+    "TotalTask": "",
+    "Progress":"8",
+    "Pipeline":"20",
+    "Review":"6",
+    "unassigned":"6",
+    "subTable": [
+      {
+        "id": 1,
+        "Department": "Growth",
+        "TotalTask": "40",
+        "Progress": "10",
+        "Pipeline": "10",
+        "Review": "0",
+        "unassigned": "20"
+      },
+      {
+        "id": 2,
+        "Department": "Funding",
+        "TotalTask": "5",
+        "Progress": "0",
+        "Pipeline": "3",
+        "Review": "1",
+        "unassigned": "1"
+      },
+      {
+        "id": 3,
+        "Department": "Executive",
+        "TotalTask": "1",
+        "Progress": "0",
+        "Pipeline": "1",
+        "Review": "0",
+        "unassigned": "0"
+      }
+    ]
+  }, 
+  {
+    "id":1,
+    "Department": "Growth Management",
+    "TotalTask": "",
+    "Progress":"1",
+    "Pipeline":"6",
+    "Review":"1",
+    "unassigned":"5",
+    "subTable": [
+      {
+        "id": 1,
+        "Department": "Growth",
+        "TotalTask": "30",
+        "Progress": "0",
+        "Pipeline": "15",
+        "Review": "0",
+        "unassigned": "15"
+      },
+      {
+        "id": 2,
+        "Department": "Funding",
+        "TotalTask": "5",
+        "Progress": "0",
+        "Pipeline": "3",
+        "Review": "1",
+        "unassigned": "1"
+      },
+      {
+        "id": 3,
+        "Department": "Executive",
+        "TotalTask": "1",
+        "Progress": "0",
+        "Pipeline": "1",
+        "Review": "0",
+        "unassigned": "0"
+      }
+    ]
+  },
+
+  {
+    "id":2,
+    "Department": "Branding",
+    "TotalTask": "",
+    "Progress":"2",
+    "Pipeline":"17",
+    "Review":"4",
+    "unassigned":"3",
+    "subTable": [
+      {
+        "id": 1,
+        "Department": "Growth",
+        "TotalTask": "33",
+        "Progress": "0",
+        "Pipeline": "10",
+        "Review": "0",
+        "unassigned": "23"
+      },
+      {
+        "id": 2,
+        "Department": "Funding",
+        "TotalTask": "4",
+        "Progress": "0",
+        "Pipeline": "3",
+        "Review": "1",
+        "unassigned": "0"
+      },
+      {
+        "id": 3,
+        "Department": "Executive",
+        "TotalTask": "1",
+        "Progress": "0",
+        "Pipeline": "1",
+        "Review": "0",
+        "unassigned": "0"
+      }
+    ]
+  },
+  {
+    "id":3,
+    "Department": "Sales",
+    "TotalTask": "",
+    "Progress":"7",
+    "Pipeline":"",
+    "Review":"0",
+    "unassigned":"7",
+    "subTable": [
+      {
+        "id": 1,
+        "Department": "Growth",
+        "TotalTask": "74",
+        "Progress": "40",
+        "Pipeline": "30",
+        "Review": "0",
+        "unassigned": "4"
+      },
+      {
+        "id": 2,
+        "Department": "Funding",
+        "TotalTask": "5",
+        "Progress": "0",
+        "Pipeline": "3",
+        "Review": "1",
+        "unassigned": "1"
+      },
+      {
+        "id": 3,
+        "Department": "Executive",
+        "TotalTask": "3",
+        "Progress": "0",
+        "Pipeline": "1",
+        "Review": "2",
+        "unassigned": "0"
+      }
+    ]
+
+  },
+  {
+    "id":4,
+    "Department": "Quant Research",
+    "TotalTask": "",
+    "Progress":"0",
+    "Pipeline":"18",
+    "Review":"18",
+    "unassigned":"0",
+    "subTable": [
+      {
+        "id": 1,
+        "Department": "Growth",
+        "TotalTask": "4",
+        "Progress": "0",
+        "Pipeline": "0",
+        "Review": "0",
+        "unassigned": "4"
+      },
+      {
+        "id": 2,
+        "Department": "Funding",
+        "TotalTask": "5",
+        "Progress": "0",
+        "Pipeline": "3",
+        "Review": "1",
+        "unassigned": "1"
+      },
+      {
+        "id": 3,
+        "Department": "Executive",
+        "TotalTask": "6",
+        "Progress": "0",
+        "Pipeline": "1",
+        "Review": "5",
+        "unassigned": "0"
+      }
+    ]
+  },
+  {
+    "id":5,
+    "Department": "Quant Development",
+    "TotalTask": "",
+    "Progress":"",
+    "Pipeline":"",
+    "Review":"",
+    "unassigned":"",
+    "subTable": [
+      {
+        "id": 1,
+        "Department": "Growth",
+        "TotalTask": "42",
+        "Progress": "0",
+        "Pipeline": "20",
+        "Review": "0",
+        "unassigned": "22"
+      },
+      {
+        "id": 2,
+        "Department": "Funding",
+        "TotalTask": "5",
+        "Progress": "0",
+        "Pipeline": "1",
+        "Review": "3",
+        "unassigned": "1"
+      },
+      {
+        "id": 3,
+        "Department": "Executive",
+        "TotalTask": "2",
+        "Progress": "1",
+        "Pipeline": "1",
+        "Review": "0",
+        "unassigned": "0"
+      }
+    ]
+  },
+  {
+    "id":6,
+    "Department": "Quant Delivery",
+    "TotalTask": "",
+    "Progress":"2",
+    "Pipeline":"0",
+    "Review":"8",
+    "unassigned":"0",
+    "subTable": [
+      {
+        "id": 1,
+        "Department": "Growth",
+        "TotalTask": "40",
+        "Progress": "0",
+        "Pipeline": "30",
+        "Review": "10",
+        "unassigned": "0"
+      },
+      {
+        "id": 2,
+        "Department": "Funding",
+        "TotalTask": "0",
+        "Progress": "0",
+        "Pipeline": "0",
+        "Review": "0",
+        "unassigned": "0"
+      },
+      {
+        "id": 3,
+        "Department": "Executive",
+        "TotalTask": "0",
+        "Progress": "0",
+        "Pipeline": "0",
+        "Review": "0",
+        "unassigned": "0"
+      }
+    ]
+
+  },
+  {
+    "id":7,
+    "Department": "Quant Infra",
+    "TotalTask": "",
+    "Progress":"0",
+    "Pipeline":"0",
+    "Review":"7",
+    "unassigned":"0",
+    "subTable": [
+      {
+        "id": 1,
+        "Department": "Growth",
+        "TotalTask": "17",
+        "Progress": "10",
+        "Pipeline": "3",
+        "Review": "0",
+        "unassigned": "4"
+      },
+      {
+        "id": 2,
+        "Department": "Funding",
+        "TotalTask": "5",
+        "Progress": "0",
+        "Pipeline": "3",
+        "Review": "1",
+        "unassigned": "1"
+      },
+      {
+        "id": 3,
+        "Department": "Executive",
+        "TotalTask": "2",
+        "Progress": "1",
+        "Pipeline": "1",
+        "Review": "0",
+        "unassigned": "0"
+      }
+    ]
+
+  },
+  {
+    "id":8,
+    "Department": "Quant Global",
+    "TotalTask": "",
+    "Progress":"7",
+    "Pipeline":"0",
+    "Review":"4",
+    "unassigned":"10",
+    "subTable": [
+      {
+        "id": 1,
+        "Department": "Growth",
+        "TotalTask": "15",
+        "Progress": "0",
+        "Pipeline": "3",
+        "Review": "8",
+        "unassigned": "4"
+      },
+      {
+        "id": 2,
+        "Department": "Funding",
+        "TotalTask": "3",
+        "Progress": "0",
+        "Pipeline": "3",
+        "Review": "0",
+        "unassigned": "0"
+      },
+      {
+        "id": 3,
+        "Department": "Executive",
+        "TotalTask": "1",
+        "Progress": "0",
+        "Pipeline": "1",
+        "Review": "0",
+        "unassigned": "0"
+      }
+    ]
+
+  },
+  {
+    "id":9,
+    "Department": "Team Building",
+    "TotalTask": "",
+    "Progress":"8",
+    "Pipeline":"10",
+    "Review":"16",
+    "unassigned":"0",
+    "subTable": [
+      {
+        "id": 1,
+        "Department": "Growth",
+        "TotalTask": "34",
+        "Progress": "10",
+        "Pipeline": "20",
+        "Review": "0",
+        "unassigned": "4"
+      },
+      {
+        "id": 2,
+        "Department": "Funding",
+        "TotalTask": "2",
+        "Progress": "0",
+        "Pipeline": "0",
+        "Review": "1",
+        "unassigned": "1"
+      },
+      {
+        "id": 3,
+        "Department": "Executive",
+        "TotalTask": "1",
+        "Progress": "0",
+        "Pipeline": "1",
+        "Review": "0",
+        "unassigned": "0"
+      }
+    ]
+
+  },
+  {
+    "id":10,
+    "Department": "Others",
+    "TotalTask": "",
+    "Progress":"4",
+    "Pipeline":"0",
+    "Review":"0",
+    "unassigned":"4",
+    "subTable": [
+      {
+        "id": 1,
+        "Department": "Growth",
+        "TotalTask": "0",
+        "Progress": "0",
+        "Pipeline": "0",
+        "Review": "0",
+        "unassigned": "0"
+      },
+      {
+        "id": 2,
+        "Department": "Funding",
+        "TotalTask": "15",
+        "Progress": "10",
+        "Pipeline": "3",
+        "Review": "1",
+        "unassigned": "1"
+      },
+      {
+        "id": 3,
+        "Department": "Executive",
+        "TotalTask": "10",
+        "Progress": "0",
+        "Pipeline": "5",
+        "Review": "5",
+        "unassigned": "0"
+      }
+    ]
+
+  }
+]
